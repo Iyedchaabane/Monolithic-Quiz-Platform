@@ -16,7 +16,7 @@ This is a straightforward quiz application developed using Spring Boot 3 and Pos
 
 1. Clone or download this repository to your local machine.
 
-2. Set up a PostgreSQL database and configure the database connection in the `application.properties` file.
+2. Set up a PostgreSQL database and configure the database connection in the `application.yml` file.
 
 3. Build and run the Spring Boot application.
 
